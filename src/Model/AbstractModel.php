@@ -239,7 +239,7 @@ abstract class AbstractModel extends PandawaModel
     /**
      * @inheritdoc
      */
-    protected function originalIsEquivalent($key, $current)
+    public function originalIsEquivalent($key, $current)
     {
         if (!array_key_exists($key, $this->original)) {
             return false;
