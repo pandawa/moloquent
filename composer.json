@@ -4,7 +4,6 @@
     "keywords": ["laravel", "pandawa"],
     "license": "MIT",
     "type": "library",
-    "minimum-stability": "dev",
     "prefer-stable": true,
     "authors": [
         {
@@ -15,7 +14,7 @@
     "require": {
         "php": ">=7.2",
         "jenssegers/mongodb": "dev-master",
-        "pandawa/pandawa": "^1.0"
+        "pandawa/pandawa": "dev-master"
     },
     "require-dev": {
         "phpunit/phpunit": "~6.0"
