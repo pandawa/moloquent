@@ -34,7 +34,12 @@ abstract class AbstractModel extends PandawaModel
     /**
      * @var bool
      */
-    protected $enableUuid = false;
+    protected $enableUuid = true;
+
+    /**
+     * @var string
+     */
+    protected $keyType = 'string';
 
     /**
      * The collection associated with the model.
