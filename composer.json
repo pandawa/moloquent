@@ -13,7 +13,7 @@
     ],
     "require": {
         "php": ">=7.2",
-        "jenssegers/mongodb": "dev-master|4.0.0-alpha.1",
+        "jenssegers/mongodb": "dev-master|^3.0",
         "pandawa/pandawa": "dev-master"
     },
     "require-dev": {
