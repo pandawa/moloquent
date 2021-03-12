@@ -14,7 +14,7 @@
     "require": {
         "php": ">=7.2|>=8.0",
         "jenssegers/mongodb": "dev-master|^3.0",
-        "pandawa/pandawa": "dev-master"
+        "pandawa/pandawa": "dev-master|^1.0"
     },
     "require-dev": {
         "phpunit/phpunit": "~6.0"
