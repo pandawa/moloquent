@@ -12,12 +12,9 @@
         }
     ],
     "require": {
-        "php": ">=7.2|>=8.0",
-        "jenssegers/mongodb": "dev-master|^3.0",
-        "pandawa/pandawa": "dev-master|^1.0"
-    },
-    "require-dev": {
-        "phpunit/phpunit": "~6.0"
+        "php": ">=7.2",
+        "jenssegers/mongodb": "^3.8",
+        "pandawa/pandawa": "^1.0|^4.0"
     },
     "autoload": {
         "psr-4": {
